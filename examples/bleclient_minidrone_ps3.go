@@ -93,22 +93,22 @@ func main() {
 		})
 
 		_ = stick.On(joystick.LeftX, func(data interface{}) {
-			val := float64(data.(int16))
+			val := float64(data.(int))
 			leftX.Store(val)
 		})
 
 		_ = stick.On(joystick.LeftY, func(data interface{}) {
-			val := float64(data.(int16))
+			val := float64(data.(int))
 			leftY.Store(val)
 		})
 
 		_ = stick.On(joystick.RightX, func(data interface{}) {
-			val := float64(data.(int16))
+			val := float64(data.(int))
 			rightX.Store(val)
 		})
 
 		_ = stick.On(joystick.RightY, func(data interface{}) {
-			val := float64(data.(int16))
+			val := float64(data.(int))
 			rightY.Store(val)
 		})
 
