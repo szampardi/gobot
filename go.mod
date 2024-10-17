@@ -17,7 +17,6 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/warthog618/gpiod v0.8.2
 	go.bug.st/serial v1.6.1
-	gobot.io/x/gobot/v2 v2.3.0
 	gocv.io/x/gocv v0.35.0
 	golang.org/x/net v0.19.0
 	golang.org/x/sys v0.16.0
