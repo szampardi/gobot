@@ -11,7 +11,7 @@ import (
 
 	"github.com/donovanhide/eventsource"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // Adaptor is the Gobot Adaptor for Particle

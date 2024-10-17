@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot/v2/platforms/parrot/bebop/client"
+	"github.com/szampardi/gobot/platforms/parrot/bebop/client"
 )
 
 func main() {

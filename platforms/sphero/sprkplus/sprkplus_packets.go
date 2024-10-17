@@ -1,6 +1,6 @@
 package sprkplus
 
-import "gobot.io/x/gobot/v2/platforms/sphero"
+import "github.com/szampardi/gobot/platforms/sphero"
 
 // DefaultCollisionConfig returns a CollisionConfig with sensible collision defaults
 func DefaultCollisionConfig() sphero.CollisionConfig {

@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // Driver represents the control information for the hs200 drone

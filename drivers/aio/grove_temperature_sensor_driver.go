@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // GroveTemperatureSensorDriver represents a temperature sensor

@@ -17,8 +17,8 @@ import (
 	"fmt"
 	"os"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/particle"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/particle"
 )
 
 func main() {

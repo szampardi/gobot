@@ -8,4 +8,4 @@ Installing:
 For further information refer to mqtt README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/mqtt/README.md
 */
-package mqtt // import "gobot.io/x/gobot/v2/platforms/mqtt"
+package mqtt // import "github.com/szampardi/gobot/platforms/mqtt"

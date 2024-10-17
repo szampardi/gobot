@@ -7,10 +7,10 @@
 package main
 
 import (
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/api"
-	"gobot.io/x/gobot/v2/platforms/keyboard"
-	"gobot.io/x/gobot/v2/platforms/sphero"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/api"
+	"github.com/szampardi/gobot/platforms/keyboard"
+	"github.com/szampardi/gobot/platforms/sphero"
 )
 
 func main() {

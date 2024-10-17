@@ -8,4 +8,4 @@ Installing:
 For more information refer to the bebop README:
 https://github.com/hybridgroup/gobot/tree/master/platforms/parrot/bebop/README.md
 */
-package bebop // import "gobot.io/x/gobot/v2/platforms/parrot/bebop"
+package bebop // import "github.com/szampardi/gobot/platforms/parrot/bebop"

@@ -20,10 +20,10 @@ import (
 	"os"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/gpio"
-	"gobot.io/x/gobot/v2/platforms/firmata"
-	"gobot.io/x/gobot/v2/platforms/intel-iot/curie"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/gpio"
+	"github.com/szampardi/gobot/platforms/firmata"
+	"github.com/szampardi/gobot/platforms/intel-iot/curie"
 )
 
 func main() {

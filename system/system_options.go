@@ -3,7 +3,7 @@ package system
 import (
 	"fmt"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // Optioner is the interface for system options. This provides the possibility for change the systems behavior by the

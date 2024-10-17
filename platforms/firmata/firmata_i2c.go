@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"sync"
 
-	"gobot.io/x/gobot/v2/platforms/firmata/client"
+	"github.com/szampardi/gobot/platforms/firmata/client"
 )
 
 // firmataI2cConnection implements the interface gobot.I2cOperations

@@ -10,8 +10,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2"
-	common "gobot.io/x/gobot/v2/platforms/mavlink/common"
+	"github.com/szampardi/gobot"
+	common "github.com/szampardi/gobot/platforms/mavlink/common"
 )
 
 var _ gobot.Driver = (*Driver)(nil)

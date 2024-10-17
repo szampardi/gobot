@@ -9,9 +9,9 @@ package main
 import (
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/i2c"
-	"gobot.io/x/gobot/v2/platforms/raspi"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/i2c"
+	"github.com/szampardi/gobot/platforms/raspi"
 )
 
 func main() {

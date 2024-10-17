@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/gpio"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/gpio"
 )
 
 const adafruit1109Debug = false

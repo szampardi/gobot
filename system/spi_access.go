@@ -1,7 +1,7 @@
 package system
 
 import (
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 type periphioSpiAccess struct {

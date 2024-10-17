@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/gpio"
-	"gobot.io/x/gobot/v2/platforms/intel-iot/joule"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/gpio"
+	"github.com/szampardi/gobot/platforms/intel-iot/joule"
 )
 
 func main() {

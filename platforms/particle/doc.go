@@ -12,9 +12,9 @@ Example:
 	import (
 		"time"
 
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/drivers/gpio"
-		"gobot.io/x/gobot/v2/platforms/particle"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/drivers/gpio"
+		"github.com/szampardi/gobot/platforms/particle"
 	)
 
 	func main() {
@@ -39,4 +39,4 @@ Example:
 For further information refer to Particle readme:
 https://github.com/hybridgroup/gobot/blob/master/platforms/particle/README.md
 */
-package particle // import "gobot.io/x/gobot/v2/platforms/particle"
+package particle // import "github.com/szampardi/gobot/platforms/particle"

@@ -12,9 +12,9 @@ Example:
 	import (
 		"fmt"
 
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/platforms/mavlink"
-		common "gobot.io/x/gobot/v2/platforms/mavlink/common"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/platforms/mavlink"
+		common "github.com/szampardi/gobot/platforms/mavlink/common"
 	)
 
 	func main() {
@@ -65,4 +65,4 @@ Example:
 For further information refer to mavlink README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/mavlink/README.md
 */
-package mavlink // import "gobot.io/x/gobot/v2/platforms/mavlink"
+package mavlink // import "github.com/szampardi/gobot/platforms/mavlink"

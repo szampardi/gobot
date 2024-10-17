@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2/drivers/spi"
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot/drivers/spi"
+	"github.com/szampardi/gobot/system"
 )
 
 // make sure that this SpiBusAdaptor fulfills all the required interfaces

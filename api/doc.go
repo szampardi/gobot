@@ -8,8 +8,8 @@ Example:
 	import (
 	  "fmt"
 
-	  "gobot.io/x/gobot/v2"
-	  "gobot.io/x/gobot/v2/api"
+	  "github.com/szampardi/gobot"
+	  "github.com/szampardi/gobot/api"
 	)
 
 	func main() {

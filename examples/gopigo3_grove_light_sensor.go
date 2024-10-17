@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/aio"
-	"gobot.io/x/gobot/v2/platforms/dexter/gopigo3"
-	"gobot.io/x/gobot/v2/platforms/raspi"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/aio"
+	"github.com/szampardi/gobot/platforms/dexter/gopigo3"
+	"github.com/szampardi/gobot/platforms/raspi"
 )
 
 func main() {

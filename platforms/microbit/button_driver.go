@@ -1,8 +1,8 @@
 package microbit
 
 import (
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/ble"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/ble"
 )
 
 // ButtonDriver is the Gobot driver for the Microbit's built-in buttons

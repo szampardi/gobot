@@ -3,7 +3,7 @@ package gpio
 import (
 	"fmt"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // relayOptionApplier needs to be implemented by each configurable option type

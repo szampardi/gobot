@@ -16,9 +16,9 @@ package main
 import (
 	"os"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/gpio"
-	"gobot.io/x/gobot/v2/platforms/firmata"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/gpio"
+	"github.com/szampardi/gobot/platforms/firmata"
 )
 
 func main() {

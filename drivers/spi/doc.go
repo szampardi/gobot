@@ -8,4 +8,4 @@ Installing:
 For further information refer to spi README:
 https://github.com/hybridgroup/gobot/blob/master/drivers/spi/README.md
 */
-package spi // import "gobot.io/x/gobot/v2/drivers/spi"
+package spi // import "github.com/szampardi/gobot/drivers/spi"

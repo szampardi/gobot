@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"sync"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // Config is the interface to set and get I2C device related parameters.

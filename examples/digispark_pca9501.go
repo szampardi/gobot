@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/i2c"
-	"gobot.io/x/gobot/v2/platforms/digispark"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/i2c"
+	"github.com/szampardi/gobot/platforms/digispark"
 )
 
 // Program use EEPROM with GPIO to rotate pins, get best experience, when

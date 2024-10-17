@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // default address for device when a2/a1/a0 pins are all tied to ground

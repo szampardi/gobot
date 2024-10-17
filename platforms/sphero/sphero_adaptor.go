@@ -5,7 +5,7 @@ import (
 
 	"go.bug.st/serial"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // Adaptor represents a Connection to a Sphero

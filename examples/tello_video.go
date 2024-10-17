@@ -20,8 +20,8 @@ import (
 	"os/exec"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/dji/tello"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/dji/tello"
 )
 
 func main() {

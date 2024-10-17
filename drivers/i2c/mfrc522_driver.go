@@ -1,7 +1,7 @@
 package i2c
 
 import (
-	"gobot.io/x/gobot/v2/drivers/common/mfrc522"
+	"github.com/szampardi/gobot/drivers/common/mfrc522"
 )
 
 const mfrc522DefaultAddress = 0x00

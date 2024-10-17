@@ -3,8 +3,8 @@ package mavlink
 import (
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	common "gobot.io/x/gobot/v2/platforms/mavlink/common"
+	"github.com/szampardi/gobot"
+	common "github.com/szampardi/gobot/platforms/mavlink/common"
 )
 
 const (

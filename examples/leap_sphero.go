@@ -9,9 +9,9 @@ package main
 import (
 	"math"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/leap"
-	"gobot.io/x/gobot/v2/platforms/sphero"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/leap"
+	"github.com/szampardi/gobot/platforms/sphero"
 )
 
 func main() {

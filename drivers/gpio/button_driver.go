@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // buttonOptionApplier needs to be implemented by each configurable option type

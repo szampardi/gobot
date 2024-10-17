@@ -6,9 +6,9 @@ import (
 
 	multierror "github.com/hashicorp/go-multierror"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/i2c"
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/i2c"
+	"github.com/szampardi/gobot/system"
 )
 
 type i2cBusNumberValidator func(busNumber int) error

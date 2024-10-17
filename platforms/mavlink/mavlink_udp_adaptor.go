@@ -3,7 +3,7 @@ package mavlink
 import (
 	"net"
 
-	common "gobot.io/x/gobot/v2/platforms/mavlink/common"
+	common "github.com/szampardi/gobot/platforms/mavlink/common"
 )
 
 type UDPConnection interface {

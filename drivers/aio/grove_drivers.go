@@ -1,6 +1,6 @@
 package aio
 
-import "gobot.io/x/gobot/v2"
+import "github.com/szampardi/gobot"
 
 // GroveRotaryDriver represents an analog rotary dial with a Grove connector
 type GroveRotaryDriver struct {

@@ -6,7 +6,7 @@ import (
 
 	"go.bug.st/serial"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 var _ gobot.Adaptor = (*Adaptor)(nil)

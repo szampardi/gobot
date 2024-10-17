@@ -8,4 +8,4 @@ Installing:
 For further information refer to aio README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/aio/README.md
 */
-package aio // import "gobot.io/x/gobot/v2/drivers/aio"
+package aio // import "github.com/szampardi/gobot/drivers/aio"

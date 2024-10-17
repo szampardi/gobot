@@ -1,7 +1,7 @@
 package spi
 
 import (
-	"gobot.io/x/gobot/v2/drivers/common/mfrc522"
+	"github.com/szampardi/gobot/drivers/common/mfrc522"
 )
 
 // MFRC522Driver is a wrapper for SPI bus usage. Please refer to the mfrc522.MFRC522Common package

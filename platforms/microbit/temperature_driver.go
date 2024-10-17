@@ -3,8 +3,8 @@ package microbit
 import (
 	"bytes"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/ble"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/ble"
 )
 
 // TemperatureDriver is the Gobot driver for the Microbit's built-in thermometer

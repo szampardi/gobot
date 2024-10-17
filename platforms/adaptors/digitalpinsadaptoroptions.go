@@ -3,8 +3,8 @@ package adaptors
 import (
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/system"
 )
 
 // DigitalPinsOptioner is the interface for digital adaptors options. This provides the possibility for change the

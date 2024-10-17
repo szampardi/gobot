@@ -30,9 +30,9 @@ import (
 	"fmt"
 	"os"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/ble"
-	"gobot.io/x/gobot/v2/platforms/microbit"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/ble"
+	"github.com/szampardi/gobot/platforms/microbit"
 )
 
 func main() {

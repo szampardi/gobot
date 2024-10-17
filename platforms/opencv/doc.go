@@ -15,8 +15,8 @@ Example:
 
 	import (
 		cv "gobot.io/x/go-opencv/opencv"
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/platforms/opencv"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/platforms/opencv"
 	)
 
 	func main() {
@@ -40,4 +40,4 @@ Example:
 For further information refer to opencv README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/opencv/README.md
 */
-package opencv // import "gobot.io/x/gobot/v2/platforms/opencv"
+package opencv // import "github.com/szampardi/gobot/platforms/opencv"

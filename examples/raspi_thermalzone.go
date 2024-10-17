@@ -11,9 +11,9 @@ import (
 	"log"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/aio"
-	"gobot.io/x/gobot/v2/platforms/raspi"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/aio"
+	"github.com/szampardi/gobot/platforms/raspi"
 )
 
 // Wiring: no wiring needed

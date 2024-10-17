@@ -3,8 +3,8 @@ package curie
 import (
 	"errors"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/firmata"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/firmata"
 )
 
 const (

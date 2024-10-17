@@ -1,6 +1,6 @@
 package nats
 
-import "gobot.io/x/gobot/v2"
+import "github.com/szampardi/gobot"
 
 const (
 	// Data event when data is available for Driver

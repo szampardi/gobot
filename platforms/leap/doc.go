@@ -14,8 +14,8 @@ Example:
 	import (
 		"fmt"
 
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/platforms/leap"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/platforms/leap"
 	)
 
 	func main() {
@@ -40,4 +40,4 @@ Example:
 For more information refer to the leap README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/leap/README.md
 */
-package leap // import "gobot.io/x/gobot/v2/platforms/leap"
+package leap // import "github.com/szampardi/gobot/platforms/leap"

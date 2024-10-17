@@ -8,4 +8,4 @@ Installing:
 For further information refer to gpio README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/gpio/README.md
 */
-package gpio // import "gobot.io/x/gobot/v2/drivers/gpio"
+package gpio // import "github.com/szampardi/gobot/drivers/gpio"

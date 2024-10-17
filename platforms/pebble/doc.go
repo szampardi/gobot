@@ -18,9 +18,9 @@ your computer IP, robot name is 'pebble' and robot api port is 8080
 	import (
 		"fmt"
 
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/api"
-		"gobot.io/x/gobot/v2/platforms/pebble"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/api"
+		"github.com/szampardi/gobot/platforms/pebble"
 	)
 
 	func main() {
@@ -55,4 +55,4 @@ your computer IP, robot name is 'pebble' and robot api port is 8080
 For more information refer to the pebble README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/pebble/README.md
 */
-package pebble // import "gobot.io/x/gobot/v2/platforms/pebble"
+package pebble // import "github.com/szampardi/gobot/platforms/pebble"

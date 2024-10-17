@@ -9,8 +9,8 @@ package main
 import (
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/parrot/bebop"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/parrot/bebop"
 )
 
 func main() {

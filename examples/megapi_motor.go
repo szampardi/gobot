@@ -9,8 +9,8 @@ package main
 import (
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/megapi"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/megapi"
 )
 
 func main() {

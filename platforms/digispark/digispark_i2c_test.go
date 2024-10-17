@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2/drivers/i2c"
+	"github.com/szampardi/gobot/drivers/i2c"
 )
 
 const (

@@ -12,9 +12,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/i2c"
-	"gobot.io/x/gobot/v2/platforms/firmata/client"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/i2c"
+	"github.com/szampardi/gobot/platforms/firmata/client"
 )
 
 // make sure that this Adaptor fulfills all required I2C interfaces

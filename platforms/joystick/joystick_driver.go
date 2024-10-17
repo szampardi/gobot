@@ -8,7 +8,7 @@ import (
 
 	js "github.com/0xcafed00d/joystick"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 const (

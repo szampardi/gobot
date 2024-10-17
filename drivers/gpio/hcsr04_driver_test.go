@@ -10,8 +10,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2/drivers/aio"
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot/drivers/aio"
+	"github.com/szampardi/gobot/system"
 )
 
 func initTestHCSR04DriverWithStubbedAdaptor(triggerPinID string, echoPinID string) (*HCSR04Driver, *digitalPinMock) {

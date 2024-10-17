@@ -9,8 +9,8 @@ package main
 import (
 	"fmt"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/neurosky"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/neurosky"
 )
 
 func main() {

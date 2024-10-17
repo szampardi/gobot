@@ -9,9 +9,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/firmata"
-	"gobot.io/x/gobot/v2/platforms/firmata/client"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/firmata"
+	"github.com/szampardi/gobot/platforms/firmata/client"
 )
 
 var _ gobot.Driver = (*IMUDriver)(nil)

@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 const adafruit2348Debug = false // Set this to true to see debug output

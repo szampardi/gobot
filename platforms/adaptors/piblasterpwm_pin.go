@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot/system"
 )
 
 const (

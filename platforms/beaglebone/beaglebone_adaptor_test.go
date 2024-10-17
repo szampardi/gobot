@@ -9,13 +9,13 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/aio"
-	"gobot.io/x/gobot/v2/drivers/gpio"
-	"gobot.io/x/gobot/v2/drivers/i2c"
-	"gobot.io/x/gobot/v2/drivers/spi"
-	"gobot.io/x/gobot/v2/platforms/adaptors"
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/aio"
+	"github.com/szampardi/gobot/drivers/gpio"
+	"github.com/szampardi/gobot/drivers/i2c"
+	"github.com/szampardi/gobot/drivers/spi"
+	"github.com/szampardi/gobot/platforms/adaptors"
+	"github.com/szampardi/gobot/system"
 )
 
 // make sure that this Adaptor fulfills all the required interfaces

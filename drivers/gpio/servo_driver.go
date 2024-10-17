@@ -3,7 +3,7 @@ package gpio
 import (
 	"fmt"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // ServoDriver Represents a Servo

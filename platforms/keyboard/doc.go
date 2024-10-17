@@ -14,8 +14,8 @@ Example:
 	import (
 		"fmt"
 
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/platforms/keyboard"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/platforms/keyboard"
 	)
 
 	func main() {
@@ -45,4 +45,4 @@ Example:
 For further information refer to keyboard README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/keyboard/README.md
 */
-package keyboard // import "gobot.io/x/gobot/v2/platforms/keyboard"
+package keyboard // import "github.com/szampardi/gobot/platforms/keyboard"

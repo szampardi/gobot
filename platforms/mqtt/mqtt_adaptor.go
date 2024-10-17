@@ -8,7 +8,7 @@ import (
 
 	paho "github.com/eclipse/paho.mqtt.golang"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // ErrNilClient is returned when a client action can't be taken because the struct has no client

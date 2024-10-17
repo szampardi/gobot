@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"time"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 const mpl115a2DefaultAddress = 0x60

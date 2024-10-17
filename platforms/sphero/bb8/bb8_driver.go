@@ -1,9 +1,9 @@
 package bb8
 
 import (
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/ble"
-	"gobot.io/x/gobot/v2/platforms/sphero/ollie"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/ble"
+	"github.com/szampardi/gobot/platforms/sphero/ollie"
 )
 
 // Driver represents a Sphero BB-8

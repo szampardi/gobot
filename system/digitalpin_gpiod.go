@@ -9,7 +9,7 @@ import (
 
 	"github.com/warthog618/gpiod"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 const systemGpiodDebug = false

@@ -11,9 +11,9 @@ import (
 	"log"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/i2c"
-	"gobot.io/x/gobot/v2/platforms/tinkerboard"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/i2c"
+	"github.com/szampardi/gobot/platforms/tinkerboard"
 )
 
 // Wiring

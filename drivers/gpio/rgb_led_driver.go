@@ -1,7 +1,7 @@
 package gpio
 
 import (
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // RgbLedDriver represents a digital RGB Led

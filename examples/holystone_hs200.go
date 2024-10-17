@@ -15,8 +15,8 @@ package main
 import (
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/holystone/hs200"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/holystone/hs200"
 )
 
 func main() {

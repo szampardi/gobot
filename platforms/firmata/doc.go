@@ -12,9 +12,9 @@ Example:
 	import (
 		"time"
 
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/drivers/gpio"
-		"gobot.io/x/gobot/v2/platforms/firmata"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/drivers/gpio"
+		"github.com/szampardi/gobot/platforms/firmata"
 	)
 
 	func main() {
@@ -39,4 +39,4 @@ Example:
 For further information refer to firmata readme:
 https://github.com/hybridgroup/gobot/blob/master/platforms/firmata/README.md
 */
-package firmata // import "gobot.io/x/gobot/v2/platforms/firmata"
+package firmata // import "github.com/szampardi/gobot/platforms/firmata"

@@ -12,8 +12,8 @@ Example:
 	import (
 		"fmt"
 
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/platforms/neurosky"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/platforms/neurosky"
 	)
 
 	func main() {
@@ -65,4 +65,4 @@ Example:
 For further information refer to neuroky README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/neurosky/README.md
 */
-package neurosky // import "gobot.io/x/gobot/v2/platforms/neurosky"
+package neurosky // import "github.com/szampardi/gobot/platforms/neurosky"

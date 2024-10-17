@@ -6,8 +6,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/system"
 )
 
 var _ gobot.PWMPinner = (*piBlasterPWMPin)(nil)

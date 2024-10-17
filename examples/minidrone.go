@@ -19,9 +19,9 @@ import (
 	"os"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/platforms/ble"
-	"gobot.io/x/gobot/v2/platforms/parrot/minidrone"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/platforms/ble"
+	"github.com/szampardi/gobot/platforms/parrot/minidrone"
 )
 
 func main() {

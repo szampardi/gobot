@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 type gpioTestBareAdaptor struct{}

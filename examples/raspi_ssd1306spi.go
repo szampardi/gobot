@@ -7,9 +7,9 @@
 package main
 
 import (
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/spi"
-	"gobot.io/x/gobot/v2/platforms/raspi"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/spi"
+	"github.com/szampardi/gobot/platforms/raspi"
 )
 
 // this example only works for a 128x64 display

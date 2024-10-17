@@ -1,7 +1,7 @@
 package i2c
 
 import (
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // Adafruit2327Driver is a driver for Adafruit 16-Channel PWM/Servo HAT & Bonnet - a Raspberry Pi add-on, based on

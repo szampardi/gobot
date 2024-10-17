@@ -8,7 +8,7 @@ import (
 
 	"tinygo.org/x/bluetooth"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 var (

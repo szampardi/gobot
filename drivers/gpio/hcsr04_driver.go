@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/system"
 )
 
 const (

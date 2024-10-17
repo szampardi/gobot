@@ -11,8 +11,8 @@ import (
 
 	"github.com/bmizerany/pat"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/api/robeaux"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/api/robeaux"
 )
 
 // API represents an API server

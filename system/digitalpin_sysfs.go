@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 const (

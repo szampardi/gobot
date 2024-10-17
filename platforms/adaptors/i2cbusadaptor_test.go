@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2/drivers/i2c"
-	"gobot.io/x/gobot/v2/system"
+	"github.com/szampardi/gobot/drivers/i2c"
+	"github.com/szampardi/gobot/system"
 )
 
 // make sure that this Adaptor fulfills all the required interfaces

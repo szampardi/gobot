@@ -10,8 +10,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/aio"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/aio"
 )
 
 var _ gobot.Driver = (*PIRMotionDriver)(nil)

@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"go.bug.st/serial"
-	"gobot.io/x/gobot/v2/platforms/firmata/client"
+	"github.com/szampardi/gobot/platforms/firmata/client"
 )
 
 func main() {

@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"gobot.io/x/gobot/v2"
-	"gobot.io/x/gobot/v2/drivers/aio"
+	"github.com/szampardi/gobot"
+	"github.com/szampardi/gobot/drivers/aio"
 )
 
 // this ensures that the implementation is based on spi.Driver, which implements the gobot.Driver

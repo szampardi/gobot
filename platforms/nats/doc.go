@@ -7,4 +7,4 @@ Installing:
 For further information refer to nats README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/nats/README.md
 */
-package nats // import "gobot.io/x/gobot/v2/platforms/nats"
+package nats // import "github.com/szampardi/gobot/platforms/nats"

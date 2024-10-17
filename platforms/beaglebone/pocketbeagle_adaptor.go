@@ -1,7 +1,7 @@
 package beaglebone
 
 import (
-	"gobot.io/x/gobot/v2"
+	"github.com/szampardi/gobot"
 )
 
 // PocketBeagleAdaptor is the Gobot Adaptor for the PocketBeagle

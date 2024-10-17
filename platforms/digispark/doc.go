@@ -15,9 +15,9 @@ Example:
 	import (
 		"time"
 
-		"gobot.io/x/gobot/v2"
-		"gobot.io/x/gobot/v2/drivers/gpio"
-		"gobot.io/x/gobot/v2/platforms/digispark"
+		"github.com/szampardi/gobot"
+		"github.com/szampardi/gobot/drivers/gpio"
+		"github.com/szampardi/gobot/platforms/digispark"
 	)
 
 	func main() {
@@ -42,4 +42,4 @@ Example:
 For further information refer to digispark README:
 https://github.com/hybridgroup/gobot/blob/master/platforms/digispark/README.md
 */
-package digispark // import "gobot.io/x/gobot/v2/platforms/digispark"
+package digispark // import "github.com/szampardi/gobot/platforms/digispark"
